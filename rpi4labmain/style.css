@@ -1,0 +1,22 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #fff
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: hsl(0, 0%, 53%)
+}
+
+.btn.btn-outline-dark {
+    color:#fff;
+    border-color:#fff;
+}
+.btn.btn-outline-dark:hover {
+    background-color: hsl(0,2%,5%);
+    border-color:#fff;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
